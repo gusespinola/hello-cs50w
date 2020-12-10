@@ -1,0 +1,24 @@
+div{
+    border: 3px solid black;
+    font-family: Arial;
+    font-size: 28px;
+    font-weight: bold;
+    background-color: orange;
+    width: 1000px;
+    height: 400px;
+    padding: 20px;
+    margin: 20px;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+#foo{
+    color: red;
+    text-align: center;
+}
+
+.cangrejo {
+    color: green;
+    text-align: center;
+}
